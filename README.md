@@ -1,5 +1,5 @@
 # growth_rates_from_counts
-Code for a paper on growth-rate estimation from sequencing counts.
+Code for a paper on growth-rate estimation from sequencing counts (https://doi.org/10.1101/2025.10.10.681719).
 
 The figures for exponential, logistic and Gompertz growths with a few variants are generated with 1_Exp_Log_Gomp.ipynb.
 The examples with 100 and 1000 variants undergoing logistic growth are generated with 2_Logistic_many.ipynb.
